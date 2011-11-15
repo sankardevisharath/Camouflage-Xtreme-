@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>icons/2196503-lock-off-icon-red-isolated-on-white-background.jpg</file>
+    <file>icons/2196504-lock-on-icon-red-isolated-on-white-background.jpg</file>
+    <file>icons/chameleon.JPG</file>
+    <file>icons/chameleon.svg</file>
+    <file>icons/CloseButton.gif</file>
+    <file>icons/Help.png</file>
+  </qresource>
+</RCC>

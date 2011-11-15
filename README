@@ -1,0 +1,9 @@
+Camouflage Xtreme  software is capable of embedding a file in a cover
+ object as well as extracting that message. The inputs are,the file to be
+ hidden & a digital image as cover object. The message is encrypted using
+ a user defined key & then hidden behind the cover object to produce a new
+ image with the hidden message. For extracting the message, the key used
+ for embedding must be entered & the reverse of embedding procedure is
+ done to produce the hiden file.The message can be a text or any type of
+ file and the cover image format can be JPEG or BMP.
+
